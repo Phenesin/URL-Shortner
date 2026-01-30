@@ -1,0 +1,28 @@
+# SQLite Database
+shortener.db
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*$py.class
+
+# Virtual environment
+venv/
+env/
+fastapienv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
