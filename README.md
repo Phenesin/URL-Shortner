@@ -14,10 +14,10 @@
 
 Prerequisites
 
-'''bash
+```bash
     python 3.12 -m venv fastapienv
     source fastapi/bin/activate
     pip install -r [requirements.txt](http://_vscodecontentref_/1)
-'''
+
 
 Configuration
