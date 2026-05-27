@@ -16,7 +16,7 @@ A simple URL shortening service built with **FastAPI**. It provides endpoints to
 ```bash
     python 3.12 -m venv fastapienv
     source fastapi/bin/activate
-    pip install -r [requirements.txt](http://_vscodecontentref_/1)
+    pip install -r [requirements.txt]
 ```
 
 ### Configuration
