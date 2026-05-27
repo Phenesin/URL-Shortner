@@ -66,7 +66,6 @@ The Tree below is an example of how this repository is organized. Generated with
 ├── schemas.py
 └── shortner.db
 ```
-* **Note:** `__pycache__` and the local `shortner.db` files are typically not committed to Git. Add them to `gitignore` if needed.
 
 ## Usage
 
